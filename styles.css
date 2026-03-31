@@ -190,7 +190,7 @@ img{max-width:100%;display:block}
 .narrow{max-width:760px}
 
 .grid.two{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center}
-.cards.three{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.cards.three{display:grid;grid-template-columns:repeat(2,1fr);gap:24px}
 
 /* Header */
 .site-header{position:sticky;top:0;z-index:50;background:rgba(10, 10, 15, 0.8);backdrop-filter:blur(20px);border-bottom:1px solid rgba(168, 85, 247, 0.2)}
